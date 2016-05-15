@@ -2,3 +2,7 @@
 	path = tdd01
 [submodule "tdd01"]
 	url = https://github.com/jhoanseve/tdd01.git
+[submodule "tuto-jms-spring"]
+	path = tuto-jms-spring
+[submodule "tuto-jms-spring"]
+	url = https://github.com/jhoanseve/tuto-jms-spring.git
